@@ -12,6 +12,7 @@ function renderMatters() {
                 <div className="subHeadDiv">Associated Client</div>
                 <div className="subHeadDiv">Location / Match</div>
               </div>
+              
               <div className="valueDiv">
                 <div className="valueRow underline">000009 Smith</div>
                 <div className="valueRow">Kevin Smith</div>
